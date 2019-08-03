@@ -1,1 +1,5 @@
 This is a new file.
+
+This is a change on newbranch only 
+
+And another change
